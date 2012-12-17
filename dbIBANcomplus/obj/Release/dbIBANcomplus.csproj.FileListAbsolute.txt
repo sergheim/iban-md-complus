@@ -1,0 +1,10 @@
+D:\Sergey\Projects\dbIBANcomplus\dbIBANcomplus\bin\Release\dbIBANcomplus.dll
+D:\Sergey\Projects\dbIBANcomplus\dbIBANcomplus\bin\Release\dbIBANcomplus.pdb
+D:\Sergey\Projects\dbIBANcomplus\dbIBANcomplus\obj\Release\ResolveAssemblyReference.cache
+D:\Sergey\Projects\dbIBANcomplus\dbIBANcomplus\obj\Release\dbIBANcomplus.dll
+D:\Sergey\Projects\dbIBANcomplus\dbIBANcomplus\obj\Release\dbIBANcomplus.pdb
+D:\Sergey\Projects\IBANcalc\dbIBANcomplus\bin\Release\dbIBANcomplus.dll
+D:\Sergey\Projects\IBANcalc\dbIBANcomplus\bin\Release\dbIBANcomplus.pdb
+D:\Sergey\Projects\IBANcalc\dbIBANcomplus\obj\Release\ResolveAssemblyReference.cache
+D:\Sergey\Projects\IBANcalc\dbIBANcomplus\obj\Release\dbIBANcomplus.dll
+D:\Sergey\Projects\IBANcalc\dbIBANcomplus\obj\Release\dbIBANcomplus.pdb

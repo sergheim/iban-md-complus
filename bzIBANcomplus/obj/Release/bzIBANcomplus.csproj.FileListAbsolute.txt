@@ -1,0 +1,7 @@
+D:\Sergey\Projects\IBANcalc\bzIBANcomplus\bin\Release\bzIBANcomplus.dll
+D:\Sergey\Projects\IBANcalc\bzIBANcomplus\bin\Release\bzIBANcomplus.pdb
+D:\Sergey\Projects\IBANcalc\bzIBANcomplus\bin\Release\dbIBANcomplus.dll
+D:\Sergey\Projects\IBANcalc\bzIBANcomplus\bin\Release\dbIBANcomplus.pdb
+D:\Sergey\Projects\IBANcalc\bzIBANcomplus\obj\Release\ResolveAssemblyReference.cache
+D:\Sergey\Projects\IBANcalc\bzIBANcomplus\obj\Release\bzIBANcomplus.dll
+D:\Sergey\Projects\IBANcalc\bzIBANcomplus\obj\Release\bzIBANcomplus.pdb

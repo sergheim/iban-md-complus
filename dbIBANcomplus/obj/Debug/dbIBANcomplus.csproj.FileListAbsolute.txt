@@ -1,0 +1,5 @@
+D:\Sergey\Projects\IBANcalc\dbIBANcomplus\bin\Debug\dbIBANcomplus.dll
+D:\Sergey\Projects\IBANcalc\dbIBANcomplus\bin\Debug\dbIBANcomplus.pdb
+D:\Sergey\Projects\IBANcalc\dbIBANcomplus\obj\Debug\ResolveAssemblyReference.cache
+D:\Sergey\Projects\IBANcalc\dbIBANcomplus\obj\Debug\dbIBANcomplus.dll
+D:\Sergey\Projects\IBANcalc\dbIBANcomplus\obj\Debug\dbIBANcomplus.pdb

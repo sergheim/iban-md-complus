@@ -1,0 +1,9 @@
+D:\Sergey\Projects\IBANcalc\wcfIBANservice\bin\wcfIBANservice.dll
+D:\Sergey\Projects\IBANcalc\wcfIBANservice\bin\wcfIBANservice.pdb
+D:\Sergey\Projects\IBANcalc\wcfIBANservice\bin\bzIBANcomplus.dll
+D:\Sergey\Projects\IBANcalc\wcfIBANservice\bin\dbIBANcomplus.dll
+D:\Sergey\Projects\IBANcalc\wcfIBANservice\bin\bzIBANcomplus.pdb
+D:\Sergey\Projects\IBANcalc\wcfIBANservice\bin\dbIBANcomplus.pdb
+D:\Sergey\Projects\IBANcalc\wcfIBANservice\obj\Debug\ResolveAssemblyReference.cache
+D:\Sergey\Projects\IBANcalc\wcfIBANservice\obj\Debug\wcfIBANservice.dll
+D:\Sergey\Projects\IBANcalc\wcfIBANservice\obj\Debug\wcfIBANservice.pdb
